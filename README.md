@@ -21,7 +21,7 @@ And make it:
       
       example string
       
-I made this to be able to use the Process Hacker string dump with the rank_strings command that is in the FlareVM for FireEye.
+I made this to be able to use the Process Hacker string dump with the rank_strings command that is in the FlareVM from FireEye.
 
 ## Issues:
 

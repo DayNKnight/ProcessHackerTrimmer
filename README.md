@@ -24,4 +24,5 @@ And make it:
 I made this to be able to use the Process Hacker string dump with the rank_strings command that is in the FlareVM for FireEye.
 
 ## Issues:
-      Does not trim the first lines if it is the first line in the file.
+
+- Does not trim the first lines if it is the first line in the file.

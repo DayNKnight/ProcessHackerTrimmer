@@ -2,7 +2,7 @@
 
 This python script was written very quickly and is not tested. It does seem to do what I was expecting, with some exceptions. 
 
-You will need to delete the top three lines that are at the top of the file by default.
+You will need to delete the top three lines that are at the top of the file by default. It should look something like this:
 
       Process Hacker 2.39.124
       Windows NT 6.1 Service Pack 1 (64-bit)
